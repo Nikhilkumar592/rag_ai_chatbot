@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env*
+!.env.example
+data/*.pdf
+sample_outputs.json
+.DS_Store

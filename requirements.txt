@@ -1,0 +1,16 @@
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-text-splitters>=0.2.0
+langchain-pinecone>=0.1.0
+langchain-google-genai>=4.4.0
+langgraph>=0.2.0
+pinecone>=3.0.0
+pypdf>=4.0.0
+gdown>=5.0.0
+fastapi>=0.110.0
+uvicorn>=0.28.0
+streamlit>=1.32.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+fonttools>=4.54.0
